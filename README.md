@@ -25,10 +25,3 @@ This project was created to demonstrate my skills in web development and is feat
    git clone https://github.com/<your-username>/todo-list-app.git
    cd todo-list-app
 
-/todo-list-app
-│
-├── index.html       # Main HTML file
-├── styles.css       # Stylesheet for the UI
-├── script.js        # JavaScript logic (for Vanilla JS projects)
-└── README.md        # Project documentation
-
